@@ -1,13 +1,3 @@
-# Bamboo Card QA Automation Assessment
-
-This repository contains my submission for the Bamboo Card Senior QA Automation Engineer assessment. It includes:
-
-- ✅ Cypress UI automation tests
-- ✅ Postman API tests
-- ✅ Manual test cases
-- ✅ A bonus performance test plan (based on my experience with JMeter)
-
----
 
 ##  Tech Stack
 
@@ -51,10 +41,5 @@ Contains 5 detailed test cases with steps, expected outcomes, and priorities
 See performance_plan.md for how I would approach load testing this site using Apache JMeter
 I’ve included scenarios for login, search, add-to-cart, and checkout
 Since I have experience with JMeter, the strategy revolves around that tool
-
- Final Notes
-
-Thanks for reviewing my submission! Everything has been structured cleanly and with care to reflect real-world QA practices.
-If you have any questions or feedback, I’d be happy to discuss further.
 
 – Faiza Iqbal
